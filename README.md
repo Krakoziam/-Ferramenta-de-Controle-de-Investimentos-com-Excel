@@ -88,3 +88,14 @@ Para dar uma identidade própria ao projeto, foram realizadas customizações vi
 
 1. **Novo Nome e Banner Personalizado:** A marca da planilha foi alterada para **Filho Investimentos**, acompanhada de um novo banner exclusivo com a ilustração de um anão minerador (com picareta e bolsa de moedas de ouro) em fundo amarelo (`#FFC000`) e borda preta.
 2. **Paleta de Cores:** A identidade visual das tabelas, cabeçalhos e células de destaque foi toda adaptada para tons quentes (amarelo, laranja pastel e detalhes em preto/branco), alinhando o design da planilha às cores do novo banner.
+
+## 📷 6. Prints da Ferramenta
+
+Moderado:
+
+<img width="525" height="887" alt="image" src="https://github.com/user-attachments/assets/06840d2c-63a7-4b99-8d16-0122b64ffbed" />
+
+Agressivo:
+
+<img width="521" height="892" alt="image" src="https://github.com/user-attachments/assets/177fe363-00d3-4ede-bee5-953153466d92" />
+
